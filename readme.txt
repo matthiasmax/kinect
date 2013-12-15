@@ -80,3 +80,15 @@ cd OpenNI/Platform/Linux-x86/Bin/Release
 
 cd nite
 sudo ./install.sh
+
+// Lizenz Key: 0KOIk2JeIBYClPWVnMoRKn5cdY4=
+
+
+________________________________________________________________________________
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+geschrieben 15.12.2013
+Matthias Max
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Anleitung getestet mit ubuntu 12.04.03LTS
+nach einer Vorlage von: 
+http://www.20papercups.net/programming/kinect-on-ubuntu-with-openni/
