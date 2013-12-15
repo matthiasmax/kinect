@@ -1,0 +1,150 @@
+make: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build'
+make -C OpenNI clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/OpenNI'
+rm -rf ../../Bin/Release/libOpenNI.so
+rm -rf ./Release/XnBaseNode.o ./Release/XnDump.o ./Release/XnEnumerationErrors.o ./Release/XnExportedNodes.o ./Release/XnFPSCalculator.o ./Release/XnLicensing.o ./Release/XnLog.o ./Release/XnLogConsoleWriter.o ./Release/XnLogFileWriter.o ./Release/XnMockNotifier.o ./Release/XnModuleLoader.o ./Release/XnNodeManager.o ./Release/XnNodeWatcher.o ./Release/XnOS.o ./Release/XnOSMemoryProfiling.o ./Release/XnOpenNI.o ./Release/XnPlayerImpl.o ./Release/XnProfiling.o ./Release/XnQueries.o ./Release/XnRecorderImpl.o ./Release/XnScheduler.o ./Release/XnStatusRegister.o ./Release/XnTypeManager.o ./Release/XnUSB.o ./Release/XnUtils.o ./Release/XnXml.o ./Release/XnXmlScriptNode.o ./Release/XnXmlScriptNodeExporter.o ./Release/openNI.o ./Release/Linux-x86CriticalSections.o ./Release/Linux-x86Debug.o ./Release/Linux-x86Events.o ./Release/Linux-x86Files.o ./Release/Linux-x86INI.o ./Release/Linux-x86Keyboard.o ./Release/Linux-x86Memory.o ./Release/Linux-x86Mutex.o ./Release/Linux-x86Network.o ./Release/Linux-x86Processes.o ./Release/Linux-x86SharedLibs.o ./Release/Linux-x86SharedMemory.o ./Release/Linux-x86Strings.o ./Release/Linux-x86Threads.o ./Release/Linux-x86Time.o ./Release/LinuxPosixEvents.o ./Release/LinuxPosixNamedEvents.o ./Release/LinuxSysVNamedEvents.o ./Release/LinuxUSBDevice.o ./Release/XnUSBLinux-x86.o ./Release/tinystr.o ./Release/tinyxml.o ./Release/tinyxmlerror.o ./Release/tinyxmlparser.o
+rm -rf ./Release/XnBaseNode.d ./Release/XnDump.d ./Release/XnEnumerationErrors.d ./Release/XnExportedNodes.d ./Release/XnFPSCalculator.d ./Release/XnLicensing.d ./Release/XnLog.d ./Release/XnLogConsoleWriter.d ./Release/XnLogFileWriter.d ./Release/XnMockNotifier.d ./Release/XnModuleLoader.d ./Release/XnNodeManager.d ./Release/XnNodeWatcher.d ./Release/XnOS.d ./Release/XnOSMemoryProfiling.d ./Release/XnOpenNI.d ./Release/XnPlayerImpl.d ./Release/XnProfiling.d ./Release/XnQueries.d ./Release/XnRecorderImpl.d ./Release/XnScheduler.d ./Release/XnStatusRegister.d ./Release/XnTypeManager.d ./Release/XnUSB.d ./Release/XnUtils.d ./Release/XnXml.d ./Release/XnXmlScriptNode.d ./Release/XnXmlScriptNodeExporter.d ./Release/openNI.d ./Release/Linux-x86CriticalSections.d ./Release/Linux-x86Debug.d ./Release/Linux-x86Events.d ./Release/Linux-x86Files.d ./Release/Linux-x86INI.d ./Release/Linux-x86Keyboard.d ./Release/Linux-x86Memory.d ./Release/Linux-x86Mutex.d ./Release/Linux-x86Network.d ./Release/Linux-x86Processes.d ./Release/Linux-x86SharedLibs.d ./Release/Linux-x86SharedMemory.d ./Release/Linux-x86Strings.d ./Release/Linux-x86Threads.d ./Release/Linux-x86Time.d ./Release/LinuxPosixEvents.d ./Release/LinuxPosixNamedEvents.d ./Release/LinuxSysVNamedEvents.d ./Release/LinuxUSBDevice.d ./Release/XnUSBLinux-x86.d ./Release/tinystr.d ./Release/tinyxml.d ./Release/tinyxmlerror.d ./Release/tinyxmlparser.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/OpenNI'
+make -C Modules/nimCodecs clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Modules/nimCodecs'
+rm -rf ../../../Bin/Release/libnimCodecs.so
+rm -rf ./Release/ExportedCodec.o ./Release/Xn16zCodec.o ./Release/Xn16zEmbTablesCodec.o ./Release/Xn8zCodec.o ./Release/XnCodec.o ./Release/XnCodecs.o ./Release/XnJpegCodec.o ./Release/XnStreamCompression.o ./Release/XnUncompressedCodec.o ./Release/jcapimin.o ./Release/jcapistd.o ./Release/jccoefct.o ./Release/jccolor.o ./Release/jcdctmgr.o ./Release/jchuff.o ./Release/jcinit.o ./Release/jcmainct.o ./Release/jcmarker.o ./Release/jcmaster.o ./Release/jcomapi.o ./Release/jcparam.o ./Release/jcphuff.o ./Release/jcprepct.o ./Release/jcsample.o ./Release/jctrans.o ./Release/jdapimin.o ./Release/jdapistd.o ./Release/jdatadst.o ./Release/jdatasrc.o ./Release/jdcoefct.o ./Release/jdcolor.o ./Release/jddctmgr.o ./Release/jdhuff.o ./Release/jdinput.o ./Release/jdmainct.o ./Release/jdmarker.o ./Release/jdmaster.o ./Release/jdmerge.o ./Release/jdphuff.o ./Release/jdpostct.o ./Release/jdsample.o ./Release/jdtrans.o ./Release/jerror.o ./Release/jfdctflt.o ./Release/jfdctfst.o ./Release/jfdctint.o ./Release/jidctflt.o ./Release/jidctfst.o ./Release/jidctint.o ./Release/jidctred.o ./Release/jmemmgr.o ./Release/jmemnobs.o ./Release/jquant1.o ./Release/jquant2.o ./Release/jutils.o
+rm -rf ./Release/ExportedCodec.d ./Release/Xn16zCodec.d ./Release/Xn16zEmbTablesCodec.d ./Release/Xn8zCodec.d ./Release/XnCodec.d ./Release/XnCodecs.d ./Release/XnJpegCodec.d ./Release/XnStreamCompression.d ./Release/XnUncompressedCodec.d ./Release/jcapimin.d ./Release/jcapistd.d ./Release/jccoefct.d ./Release/jccolor.d ./Release/jcdctmgr.d ./Release/jchuff.d ./Release/jcinit.d ./Release/jcmainct.d ./Release/jcmarker.d ./Release/jcmaster.d ./Release/jcomapi.d ./Release/jcparam.d ./Release/jcphuff.d ./Release/jcprepct.d ./Release/jcsample.d ./Release/jctrans.d ./Release/jdapimin.d ./Release/jdapistd.d ./Release/jdatadst.d ./Release/jdatasrc.d ./Release/jdcoefct.d ./Release/jdcolor.d ./Release/jddctmgr.d ./Release/jdhuff.d ./Release/jdinput.d ./Release/jdmainct.d ./Release/jdmarker.d ./Release/jdmaster.d ./Release/jdmerge.d ./Release/jdphuff.d ./Release/jdpostct.d ./Release/jdsample.d ./Release/jdtrans.d ./Release/jerror.d ./Release/jfdctflt.d ./Release/jfdctfst.d ./Release/jfdctint.d ./Release/jidctflt.d ./Release/jidctfst.d ./Release/jidctint.d ./Release/jidctred.d ./Release/jmemmgr.d ./Release/jmemnobs.d ./Release/jquant1.d ./Release/jquant2.d ./Release/jutils.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Modules/nimCodecs'
+make -C Modules/nimMockNodes clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Modules/nimMockNodes'
+rm -rf ../../../Bin/Release/libnimMockNodes.so
+rm -rf ./Release/ExportedMockNodes.o ./Release/MockAudioGenerator.o ./Release/MockDepthGenerator.o ./Release/MockDevice.o ./Release/MockGenerator.o ./Release/MockIRGenerator.o ./Release/MockImageGenerator.o ./Release/MockMapGenerator.o ./Release/MockProductionNode.o ./Release/nimMockNodes.o
+rm -rf ./Release/ExportedMockNodes.d ./Release/MockAudioGenerator.d ./Release/MockDepthGenerator.d ./Release/MockDevice.d ./Release/MockGenerator.d ./Release/MockIRGenerator.d ./Release/MockImageGenerator.d ./Release/MockMapGenerator.d ./Release/MockProductionNode.d ./Release/nimMockNodes.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Modules/nimMockNodes'
+make -C Modules/nimRecorder clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Modules/nimRecorder'
+rm -rf ../../../Bin/Release/libnimRecorder.so
+rm -rf ./Release/ExportedPlayer.o ./Release/ExportedRecorder.o ./Release/PlayerNode.o ./Release/RecorderNode.o ./Release/nimRecorder.o ./Release/DataRecords.o
+rm -rf ./Release/ExportedPlayer.d ./Release/ExportedRecorder.d ./Release/PlayerNode.d ./Release/RecorderNode.d ./Release/nimRecorder.d ./Release/DataRecords.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Modules/nimRecorder'
+make -C Utils/niReg clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Utils/niReg'
+rm -rf ../../../Bin/Release/niReg
+rm -rf ./Release/niReg.o
+rm -rf ./Release/niReg.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Utils/niReg'
+make -C Utils/niLicense clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Utils/niLicense'
+rm -rf ../../../Bin/Release/niLicense
+rm -rf ./Release/niLicense.o
+rm -rf ./Release/niLicense.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Utils/niLicense'
+make -C Wrappers/OpenNI.jni clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Wrappers/OpenNI.jni'
+rm -rf ../../../Bin/Release/libOpenNI.jni.so
+rm -rf ./Release/OpenNI.jni.o ./Release/org_OpenNI_NativeMethods.o
+rm -rf ./Release/OpenNI.jni.d ./Release/org_OpenNI_NativeMethods.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Wrappers/OpenNI.jni'
+make -C Wrappers/OpenNI.java clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Wrappers/OpenNI.java'
+rm -rf ../../../Bin/Release/org.OpenNI.jar
+rm -rf 
+rm -rf Release
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Wrappers/OpenNI.java'
+make -C Samples/NiSimpleRead clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSimpleRead'
+rm -rf ../../../Bin/Release/Sample-NiSimpleRead
+rm -rf ./Release/NiSimpleRead.o
+rm -rf ./Release/NiSimpleRead.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSimpleRead'
+make -C Samples/NiBackRecorder clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiBackRecorder'
+rm -rf ../../../Bin/Release/Sample-NiBackRecorder
+rm -rf ./Release/main.o
+rm -rf ./Release/main.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiBackRecorder'
+make -C Samples/NiConvertXToONI clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiConvertXToONI'
+rm -rf ../../../Bin/Release/Sample-NiConvertXToONI
+rm -rf ./Release/NiConvertXToONI.o
+rm -rf ./Release/NiConvertXToONI.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiConvertXToONI'
+make -C Samples/NiRecordSynthetic clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiRecordSynthetic'
+rm -rf ../../../Bin/Release/Sample-NiRecordSynthetic
+rm -rf ./Release/NiRecordSynthetic.o
+rm -rf ./Release/NiRecordSynthetic.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiRecordSynthetic'
+make -C Samples/NiSampleModule clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSampleModule'
+rm -rf ../../../Bin/Release/libSample-NiSampleModule.so
+rm -rf ./Release/ExportedSampleDepth.o ./Release/Registration.o ./Release/SampleDepth.o
+rm -rf ./Release/ExportedSampleDepth.d ./Release/Registration.d ./Release/SampleDepth.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSampleModule'
+make -C Samples/NiSimpleCreate clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSimpleCreate'
+rm -rf ../../../Bin/Release/Sample-NiSimpleCreate
+rm -rf ./Release/NiSimpleCreate.o
+rm -rf ./Release/NiSimpleCreate.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSimpleCreate'
+make -C Samples/NiCRead clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiCRead'
+rm -rf ../../../Bin/Release/Sample-NiCRead
+rm -rf ./Release/NiCRead.o
+rm -rf ./Release/NiCRead.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiCRead'
+make -C Samples/NiAudioSample clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiAudioSample'
+rm -rf ../../../Bin/Release/Sample-NiAudioSample
+rm -rf ./Release/NiAudioSample.o
+rm -rf ./Release/NiAudioSample.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiAudioSample'
+make -C Samples/NiUserTracker clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiUserTracker'
+rm -rf ../../../Bin/Release/Sample-NiUserTracker
+rm -rf ./Release/main.o ./Release/SceneDrawer.o
+rm -rf ./Release/main.d ./Release/SceneDrawer.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiUserTracker'
+make -C Samples/NiViewer clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiViewer'
+rm -rf ../../../Bin/Release/NiViewer
+rm -rf ./Release/Audio.o ./Release/Capture.o ./Release/Device.o ./Release/Draw.o ./Release/Keyboard.o ./Release/Menu.o ./Release/MouseInput.o ./Release/NiViewer.o ./Release/Statistics.o
+rm -rf ./Release/Audio.d ./Release/Capture.d ./Release/Device.d ./Release/Draw.d ./Release/Keyboard.d ./Release/Menu.d ./Release/MouseInput.d ./Release/NiViewer.d ./Release/Statistics.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiViewer'
+make -C Samples/NiSimpleViewer clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSimpleViewer'
+rm -rf ../../../Bin/Release/Sample-NiSimpleViewer
+rm -rf ./Release/NiSimpleViewer.o
+rm -rf ./Release/NiSimpleViewer.d
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/NiSimpleViewer'
+make -C Samples/SimpleRead.java clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleRead.java'
+rm -rf ../../../Bin/Release/org.OpenNI.Samples.SimpleRead.jar
+rm -rf Manifest.txt
+rm -rf Release
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleRead.java'
+make -C Samples/SimpleViewer.java clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleViewer.java'
+rm -rf ../../../Bin/Release/org.OpenNI.Samples.SimpleViewer.jar
+rm -rf Manifest.txt
+rm -rf Release
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleViewer.java'
+make -C Samples/UserTracker.java clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/UserTracker.java'
+rm -rf ../../../Bin/Release/org.OpenNI.Samples.UserTracker.jar
+rm -rf Manifest.txt
+rm -rf Release
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/UserTracker.java'
+make -C Wrappers/OpenNI.net clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Wrappers/OpenNI.net'
+rm -rf ../../../Bin/Release/OpenNI.net.dll
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Wrappers/OpenNI.net'
+make -C Samples/SimpleRead.net clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleRead.net'
+rm -rf ../../../Bin/Release/SimpleRead.net.exe
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleRead.net'
+make -C Samples/SimpleViewer.net clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleViewer.net'
+rm -rf ../../../Bin/Release/SimpleViewer.net.exe
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/SimpleViewer.net'
+make -C Samples/UserTracker.net clean
+make[1]: Entering directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/UserTracker.net'
+rm -rf ../../../Bin/Release/UserTracker.net.exe
+make[1]: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build/Samples/UserTracker.net'
+make: Leaving directory `/home_nfs/2013ws_bubble_a/kinect/openni/Platform/Linux-x86/Build'
